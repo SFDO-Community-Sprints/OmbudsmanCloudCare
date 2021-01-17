@@ -68,12 +68,12 @@
         <logoVersion>1</logoVersion>
         <shouldOverrideOrgTheme>true</shouldOverrideOrgTheme>
     </brand>
-    <description>Ombudsman Cloud Care Management System</description>
+    <description>Console view for the Ombudsman Cloud Care Management System</description>
     <formFactors>Small</formFactors>
     <formFactors>Large</formFactors>
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
-    <label>Ombudsman Cloud Care</label>
+    <label>Ombudsman Cloud Care Console</label>
     <navType>Console</navType>
     <tabs>standard-home</tabs>
     <tabs>standard-Case</tabs>
